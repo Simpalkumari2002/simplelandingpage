@@ -1,1 +1,1 @@
-# simplelandingpage
+This is my landing page.
